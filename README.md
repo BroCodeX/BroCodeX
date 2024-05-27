@@ -20,18 +20,6 @@ I am a **Junior Java Developer** with over 3 years of experience in IT. I am cur
 - [Course Name](Course Link)
 - [Course Name](Course Link)
 
-### 💼 Portfolio:
-Here are some of my notable projects:
-
-- **[Mind Games](https://github.com/BroCodeX/Mind-Games)**: A console application with 5 different mini-games that include logical and arithmetic tasks.  
-  **Tech Stack**: Java, Code-Climate, Make, Git, GitHub, Java Application Library
-
-- **[Difference Calculator](https://github.com/BroCodeX/Difference-Calculator)**: A console utility for finding differences between two data structures defined in JSON, YAML, or YML files, with various display options.  
-  **Tech Stack**: Java, JUnit5, Code-Climate, Make, Git, GitHub Actions, Picocli, Jackson, TDD, JaCoCo
-
-- **[Data Validator Library](https://github.com/BroCodeX/Data-Validator-Library)**: A library for validating any input data according to specified parameters.  
-  **Tech Stack**: Java, JUnit5, Code-Climate, Make, Git, GitHub Actions, Fluent Interface, TDD, JaCoCo, Lombok
-
 ### ✨ Skills:
 
 <p align="center">
