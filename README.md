@@ -16,9 +16,9 @@ I am a **Junior Java Developer** with over 3 years of experience in IT. I am cur
 - Bachelor's Degree in Information Security, Irkutsk State University of Railway Engineering (September 2011 - September 2015)
 - Associate's Degree in Software Engineering, Irkutsk Aviation Technical School (September 2007 - September 2011)
 
-### 💻 Courses:
-- [Course Name](Course Link)
-- [Course Name](Course Link)
+### 📜 Courses and Certifications:
+- [Java Developer, Hexlet](Course Link)
+- [Cloud Services Engineer, Yandex Practicum](Course Link)
 
 ### ✨ Skills:
 
