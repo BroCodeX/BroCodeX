@@ -5,7 +5,9 @@
 <h2 align="center"> Hi there 👋, My name is Sergey. Welcome to my GitHub Profile<br/> </h2> 
 
 ### 👨‍💻 About me:
-I am a **Junior Java Developer** with over 3 years of experience in IT. I am currently working at [ITSumma](http://www.itsumma.ru/), and continuously enhancing my skills through courses, trainings, and reading technical literature. I enjoy solving problems related to data structures and software design.
+I am a **Junior Java Developer** with over 3 years of experience in IT.<br>
+Currently working at [ITSumma](http://www.itsumma.ru/), and continuously enhancing my skills through courses, trainings, and reading technical literature.<br>
+I enjoy solving problems related to data structures and software design.
 
 * 🚀  **Open to exciting job opportunities**.
 * 🌍  **Willing to relocate internationally**.
