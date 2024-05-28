@@ -5,7 +5,7 @@
 <h3 align="center"> Hi there 👋, My name is Sergey. Welcome to my GitHub Profile<br/> </h3> 
 
 ### 👨‍💻 About me:
-I am a **Junior Java Developer** with over 3 years of experience in IT. I am currently working at [ITSumma](http://www.itsumma.ru/), and continuously enhancing my skills through courses, trainings, and reading technical literature. I enjoy solving problems related to algorithms and data structures.
+I am a **Junior Java Developer** with over 3 years of experience in IT. I am currently working at [ITSumma](http://www.itsumma.ru/), and continuously enhancing my skills through courses, trainings, and reading technical literature. I enjoy solving problems related to data structures and software design.
 
 * 🚀  **Open to exciting job opportunities**.
 * 🌍  **Willing to relocate internationally**.
@@ -17,14 +17,14 @@ I am a **Junior Java Developer** with over 3 years of experience in IT. I am cur
 - Associate's Degree in Software Engineering, Irkutsk Aviation Technical School (September 2007 - September 2011)
 
 ### 📜 Courses and Certifications:
-- [Java Developer, Hexlet](Course Link)
-- [Cloud Services Engineer, Yandex Practicum](Course Link)
+- [Java Developer, Hexlet](https://ru.hexlet.io/programs/java)
+- [Cloud Services Engineer, Yandex Practicum](https://practicum.yandex.ru/ycloud/)
 
 ### ✨ Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,github,mysql,postgres,bash,linux,docker,html,css,nginx,prometheus,kubernetes,ansible" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,gradle,git,github,gitlab,mysql,postgres,bash,linux,docker,html,css,nginx,prometheus,grafana,kubernetes,ansible" />
   </a>
 </p>
 
