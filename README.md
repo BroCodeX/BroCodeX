@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 
-<h3 align="center"> Hi there 👋, My name is Sergey. Welcome to my GitHub Profile<br/> </h3> 
+<h2 align="center"> Hi there 👋, My name is Sergey. Welcome to my GitHub Profile<br/> </h2> 
 
 ### 👨‍💻 About me:
 I am a **Junior Java Developer** with over 3 years of experience in IT. I am currently working at [ITSumma](http://www.itsumma.ru/), and continuously enhancing my skills through courses, trainings, and reading technical literature. I enjoy solving problems related to data structures and software design.
