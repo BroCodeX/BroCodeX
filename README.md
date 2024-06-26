@@ -37,7 +37,7 @@ I enjoy solving problems related to data structures and software design.
 * **Project Builds** with Gradle
 * **Linux Administration**
 * **Containerization** with Docker and Kubernetes
-* **Database Management** with MySQL
+* **Database Management** with MySQL, PostgeSQL and **JDBC**
 * **Monitoring** with Prometheus
 * **Configuration Management** with Ansible
 * **Web Server** with Nginx
