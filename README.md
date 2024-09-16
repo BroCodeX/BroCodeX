@@ -32,7 +32,7 @@ I enjoy solving problems related to data structures and software design.
 
 ### 🖥 Applied:
 * **Java Core**, **Java EE**, **Java SE**
-* * **Spring Boot**, **Javalin**, **JTE**
+* **Spring Boot**, **Javalin**, **JTE**
 * **Test-Driven Development** (TDD) with **JUnit5**
 * **Version Control** with Git, GitHub, GitLab, CI
 * **Project Builds** with Gradle
