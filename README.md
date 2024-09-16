@@ -13,7 +13,7 @@ I enjoy solving problems related to data structures and software design.
 * 🌍  **Willing to relocate internationally**.
 
 ### 📝 Education:
-- Java Developer, Hexlet (November 2023 - Present)
+- Java Developer, Hexlet (November 2023 - November 2024)
 - Cloud Services Engineer, Yandex Practicum (June 2023 - August 2023)
 - Bachelor's Degree in Information Security, Irkutsk State University of Railway Engineering (September 2011 - September 2015)
 - Associate's Degree in Software Engineering, Irkutsk Aviation Technical School (September 2007 - September 2011)
@@ -32,6 +32,7 @@ I enjoy solving problems related to data structures and software design.
 
 ### 🖥 Applied:
 * **Java Core**, **Java EE**, **Java SE**
+* * **Spring Boot**, **Javalin**, **JTE**
 * **Test-Driven Development** (TDD) with **JUnit5**
 * **Version Control** with Git, GitHub, GitLab, CI
 * **Project Builds** with Gradle
