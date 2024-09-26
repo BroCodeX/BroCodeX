@@ -55,7 +55,7 @@ I enjoy solving problems related to data structures and software design.
 - [LeetCode Profile](https://leetcode.com/u/BroCodeX/)
 
 ### 📄 Links:
-* [My Habr Profile](https://career.habr.com/ap0ll0)
+* [My Habr Profile](https://career.habr.com/brocodex)
 * [My CV (Russian)](https://cv.hexlet.io/ru/resumes/3876)
 
 ### ☎️ Contacts:
