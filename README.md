@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 I am a **Junior Java Developer** with over 3 years of experience in IT.<br>
-Currently working at [ITSumma](http://www.itsumma.ru/), and continuously enhancing my skills through courses, trainings, and reading technical literature.<br>
+Currently working at [ITSumma](http://www.itsumma.ru/) as DevOps Engineer, and continuously enhancing my skills through courses, trainings, and reading technical literature.<br>
 I enjoy solving problems related to data structures and software design.
 
 * 🚀  **Open to exciting job opportunities**.
@@ -38,10 +38,10 @@ I enjoy solving problems related to data structures and software design.
 * **Version Control** with Git, GitHub, GitLab, CI
 * **Project Builds** with Gradle
 * **Linux Administration**
-* **Containerization** with Docker and Kubernetes
+* **Containerization** with Docker and Kubernetes (K8S)
 * **Database Management** with MySQL, PostgeSQL and **JDBC**
-* **Monitoring** with Prometheus
-* **Configuration Management** with Ansible
+* **Monitoring** with Prometheus, ELK
+* **IaC** Helm, Terraform, Ansible
 * **Web Server** with Nginx
 * **HTML** and **CSS** (basics)
 * **Intermediate English**
